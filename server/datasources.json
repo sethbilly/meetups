@@ -1,0 +1,12 @@
+{
+  "coffee_shop": {
+    "host": "127.0.0.1",
+    "port": 8889,
+    "url": "",
+    "database": "coffee_shop",
+    "password": "callens$123",
+    "name": "coffee_shop",
+    "user": "callens",
+    "connector": "mysql"
+  }
+}
